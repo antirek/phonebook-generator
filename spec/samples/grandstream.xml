@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+    <Contact>
+        <LastName>Petrov</LastName>
+        <FirstName>Vasiliy</FirstName>
+        <Phone>
+            <phonenumber>110</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Groups>
+            <groupid>0</groupid>
+        </Groups>
+    </Contact>
+    <Contact>
+        <LastName>-</LastName>
+        <FirstName>Vasiliy</FirstName>
+        <Phone>
+            <phonenumber>110</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Groups>
+            <groupid>0</groupid>
+        </Groups>
+    </Contact>  
+</AddressBook>

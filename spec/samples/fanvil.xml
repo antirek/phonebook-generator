@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneDirectory>
+    <DirectoryEntry>
+        <Name>Petrov Vasiliy</Name>
+        <Telephone>110</Telephone>
+    </DirectoryEntry>
+    <DirectoryEntry>
+        <Name>Vasiliy</Name>
+        <Telephone>110</Telephone>
+    </DirectoryEntry>
+</CiscoIPPhoneDirectory>
